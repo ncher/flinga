@@ -1,2 +1,2 @@
 # flinga
-Add ons
+Add ons + SDK plug, Node.js
